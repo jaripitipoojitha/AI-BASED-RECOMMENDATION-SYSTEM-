@@ -26,3 +26,11 @@ In summary, this Java program provides a clear and practical example of how to b
 
 *OUTPUT* :
 
+Recommendations for User 5:
+
+Item: 201 | Score: 6.20
+
+Item: 203 | Score: 5.90
+
+Item: 204 | Score: 4.80
+
